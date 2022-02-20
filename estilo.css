@@ -1,0 +1,39 @@
+body{
+	background: #E38080 ;
+	font:  18px Arial, Helvetica, sans-serif;
+}
+
+#principal {
+	width: 1000px;
+}
+
+#menu {
+	background: #BB5151;
+	padding: 18px;
+}
+
+#conteudo {
+	background: #C78181;
+	padding: 10px;
+}
+
+#rodape {
+	text-align: center;
+}
+
+a {
+	color: #181818;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 5px;
+}
+
+
+h1 {
+	color: black;
+	font-size: 1.2em;
+}
+
+.img-titulo {
+	border: 10px solid darkred;
+}
